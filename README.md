@@ -15,3 +15,5 @@ Inicio
    a<-7  
    escribir("a = " & a & " y b = " & b)  
 Fin
+
+Mis soluciones del diagrama de flujo y UML son respectivamente:
