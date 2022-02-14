@@ -1,7 +1,7 @@
 # EjerciciosUML
 El repositorio donde esta todo almacenado es https://github.com/dacemoni/EjerciciosUML
 Repositorio con 4 ejercicios y sus soluciones sobre como hacer diagramas de flujo y UML con su respectivo codigo o pseudocódigo.
-## Ejercicios
+# Ejercicios
 1. Valores de las variables
 ¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?
 
@@ -20,7 +20,7 @@ Fin
 ¿Qué veremos al ejecutar el siguiente algoritmo?
 
 Algo QueVeremos 
-# ¿Qué veremos al ejecutar el siguiente algoritmo?  
+## ¿Qué veremos al ejecutar el siguiente algoritmo?  
 Variable valor1, valor2: entero  
 Variable cadena1: texto  
 Constante CST: real <- 49,78  
@@ -31,11 +31,12 @@ Inicio
    escribir(cadena1 & " , valor2 = " & valor2)  
    escribir(valor1 & " # " & CST)  
 Fin 
+
 3. ¿Qué hace?
 ¿Qué hace este algoritmo?
 
 Algo QueHace  
-# ¿Qué hace este algoritmo?  
+## ¿Qué hace este algoritmo?  
 Variable valor1, valor2: real  
 Inicio  
    valor1 <- enter("Introduza un valor: ")  
@@ -45,6 +46,7 @@ Inicio
    valor2 <- valor1  
    escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
 Fin 
+
 4. Velocidad media
 Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
 
